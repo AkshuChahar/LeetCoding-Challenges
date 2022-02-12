@@ -11,6 +11,7 @@ public:
             return 0;
 
         int n = beginWord.size();
+        
         // Now we perform a BFS to the graph.
         // We check at every iteration if by changing a alphabet of any word at the current level, we form another word in list.
         // The moment we reach the 'endWord', we return the number of steps required.
