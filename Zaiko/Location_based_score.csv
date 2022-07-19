@@ -1,0 +1,414 @@
+,Location,R2_score
+0,Kharghar,0.6749796740704639
+1,Sector-13 Kharghar,0.0
+2,Sector 18 Kharghar,0.0
+3,Sector 20 Kharghar,-0.3343551831692151
+4,Sector 15 Kharghar,0.0
+5,Dombivali,-1.2191047826349055
+6,Churchgate,0.0
+7,Prabhadevi,0.3842069081003703
+8,Jogeshwari West,0.801954008491176
+9,Kalyan East,-5.902929895500329
+10,Malad East,0.8812846319848234
+11,Virar East,1.0
+12,Virar,0.16822933342502566
+13,Malad West,0.763521480181287
+14,Borivali East,0.4703289351909379
+15,Mira Road East,0.5018682634353553
+16,Goregaon West,0.8839921552484098
+17,Kandivali West,0.5649987977959543
+18,Borivali West,0.8571550972172309
+19,Kandivali East,0.9186862702675733
+20,Andheri East,0.6179177248669014
+21,Goregaon East,0.7600538698241648
+22,Wadala,0.5689108168186829
+23,Ulwe,0.7873794832826724
+24,Dahisar,0.35246992343138184
+25,kandivali,0.8548801611210819
+26,Goregaon,-11.00586642882992
+27,Bhandup West,0.9683558128108161
+28,thakur village kandivali east,0.6279911666087463
+29,Santacruz West,0.4330998246841711
+30,Kanjurmarg,0.8497925389984111
+31,I C Colony,0.0
+32,Dahisar W,0.0
+33,Marol,1.0
+34,Parel,-1.1374651497010762
+35,Lower Parel,0.09440541870896602
+36,Worli,0.7356757978337942
+37,Jogeshwari East,1.0
+38,Chembur Shell Colony,0.0
+39,Central Avenue,0.0
+40,Chembur East,0.9163952154746619
+41,Diamond Market Road,0.0
+42,Mulund,1.0
+43,Nalasopara West,0.24431553573098508
+44,raheja vihar,1.0
+45,Powai Lake,0.0
+46,MHADA Colony 20,0.0
+47,Tolaram Colony,1.0
+48,Taloja,0.7513271071149468
+49,Thane West,0.34015359889848684
+50,Vangani,-57.87896414885319
+51,Sector 5 Ulwe,-4.238789093934864
+52,Sector12 New Panvel,0.0
+53,Sector 17 Ulwe,0.989488482696506
+54,Sector9 Kamothe,1.0
+55,Sector 19 Kharghar,0.0
+56,Navi Basti,0.0
+57,Sector12 Kamothe,-27.537406266920822
+58,Sector 21 Kamothe,1.0
+59,Rutu Enclave,0.0
+60,taloja panchanand,0.0
+61,Virar West,0.0754006528691391
+62,Chembur,0.594610262527123
+63,Sector 20 Kamothe,0.0
+64,Sector 22 Kamothe,1.0
+65,Sector 18 Kamothe,1.0
+66,Sector-5 Kamothe,0.0
+67,Sector-6A Kamothe,0.0
+68,Sector 11 Kamothe,0.0
+69,Sector-18 Ulwe,1.0
+70,Sector-12 Kamothe,0.0
+71,azad nagar,0.0
+72,Sindhi Society Chembur,1.0
+73,Kurla,-1288.7826688413527
+74,Sahkar Nagar,0.0
+75,Deonar,1.0
+76,Thane,-1.8780621716972452
+77,Jankalyan Nagar,1.0
+78,Badlapur,0.0
+79,Ambarnath,-1224.4602687043928
+80,Ambernath West,-2.686701829129529
+81,Vakola,0.0
+82,Kamothe,-0.26372936403825586
+83,Kamothe Sector 16,0.0
+84,Almeida Park,0.0
+85,Khar,0.0
+86,Bandra West,0.2341820345032718
+87,Pali Hill,0.0
+88,15th Road,0.0
+89,Palghar,0.0
+90,Sector13 Kharghar,0.0
+91,Sector 21 Kharghar,0.0
+92,Sector 12 Kharghar,0.0
+93,Vivek Vidyalaya Marg,0.0
+94,Vasai east,-1.0136294387048874
+95,Nahur,1.0
+96,Badlapur West,1.0
+97,Panvel,-1.6599733136586838
+98,Kalyan,1.0
+99,Badlapur East,-1.6950015052473297
+100,Mira Bhayandar,0.0
+101,Juhu,0.6325878910755258
+102,Naigaon East,-0.13491530520785067
+103,Sector 21 Ulwe,0.0
+104,Bandra East,0.6679171401143317
+105,Dronagiri,0.421003667990658
+106,Nerul,0.11756626916931678
+107,Karanjade,-0.45409041778039994
+108,Sanpada,-2.1449817407962875
+109,Sector-8 Ulwe,0.0
+110,Sector-3 Ulwe,1.0
+111,Sector 23 Ulwe,0.0
+112,ULWE SECTOR 19,0.0
+113,Ghodbunder Road,0.0
+114,Bhiwandi,-16.718603536948343
+115,Vasai,0.8535949333578505
+116,Nala Sopara,0.2709910761026676
+117,Dadar East,0.0
+118,Ghatkopar,1.0
+119,Breach Candy,0.0
+120,Worli South Mumbai,1.0
+121,Asangaon,0.0
+122,Koparkhairane Station Road,0.16684246220300503
+123,Kopar Khairane Sector 19A,0.0
+124,Koper Khairane,0.7153176810772385
+125,Eastern Express Highway Vikhroli,0.0
+126,Magathane,0.8294812237624717
+127,Rawal Pada,0.0
+128,Ambernath East,-1.8221493504970923
+129,Dokali Pada,1.0
+130,Dattapada,0.5544161291067524
+131,Rajendra Nagar,0.4955985805179196
+132,Kulupwadi,0.0
+133,Samata Nagar Thakur Village,0.0
+134,Mira Road and Beyond,-1.2791677536811519
+135,West Amardeep Colony,0.0
+136,Pant Nagar,0.0
+137,mumbai,-0.10775532354518358
+138,Four Bungalows,1.0
+139,no 9,1.0
+140,kolshet,1.0
+141,Hiranandani Meadows,1.0
+142,Kalpataru,0.0
+143,Petali,0.0
+144,Kharghar Sector 34C,0.0
+145,Ghatkopar East,0.7133211167170836
+146,Mumbai Agra National Highway,1.0
+147,vasant vihar thane west,1.0
+148,Kalyan West,0.07220100359277737
+149,Shirgaon,0.0
+150,Pokhran 2,0.0
+151,juhu tara,0.0
+152,Peddar Road,0.0
+153,Palm Beach,0.0
+154,Sector 10,0.0
+155,Sector 19 Kamothe,0.0
+156,Tilak Nagar,0.0
+157,Ghatkopar West,0.9105765110938222
+158,Tardeo,1.0
+159,Napeansea Road,0.0
+160,Mahalaxmi,1.0
+161,Dahisar West,0.6017974842068161
+162,Mulund West,0.8611774399220019
+163,Natakwala Lane,0.0
+164,Link Road,0.0
+165,Devidas Cross Lane,0.0
+166,Soniwadi Road,0.0
+167,Haridas Nagar,0.0
+168,Shimpoli,1.0
+169,TPS Road,1.0
+170,Off Shimpoli road,0.0
+171,Rustomjee Global City,0.0
+172,Sunil Nagar,1.0
+173,Sector 30 Kharghar,0.0
+174,Sector 12 A,0.0
+175,Sector 18,1.0
+176,Sector13 Khanda Colony,0.0
+177,Sector16 Airoli,1.0
+178,Ranjanpada,0.0
+179,Sector 15,0.0
+180,Sector 35G,0.0
+181,Sector 5,0.0
+182,Sector 35I Kharghar,1.0
+183,Sector35D Kharghar,-5.741021831191451
+184,Sector34 A Kharghar,0.0
+185,Sector 30,0.0
+186,Sector 36 Kharghar,1.0
+187,Sector 11 Belapur,0.0
+188,Sector-34B Kharghar,0.0
+189,Dombivali East,0.7092794047759725
+190,Roadpali,1.0
+191,Sector-50 Seawoods,0.0
+192,Mumbai Highway,0.0
+193,Sector 7 Kharghar,1.0
+194,Lokhandwala Township,0.0
+195,Andheri,1.0
+196,Andheri West,0.7825487638815368
+197,Shastri Nagar,1.0
+198,Wadala East Wadala,0.6173420507625046
+199,Kalwa,-0.3642951531222052
+200,PARSIK NAGAR,-4.229296736236365
+201,Maharashtra Nagar,0.0
+202,Patlipada,0.0
+203,Belapur,-1.0904076455399156
+204,Seawoods,0.5364242793047389
+205,Majiwada,-150090.32811983608
+206,4 Bunglows,0.0
+207,Airoli,0.743971336328664
+208,Kolshet Road,0.2526461550227208
+209,Sector 10 Khanda Colony,0.0
+210,Pokharan Road,0.0
+211,Kharegaon,0.0
+212,Panch Pakhadi,0.0
+213,Sector 36 Kamothe,0.0
+214,Dombivli (West),-3.4711679110027296
+215,DN Nagar Road,0.0
+216,Godrej Hill,1.0
+217,Ganesh Nagar,0.0
+218,Haware City,-2.363845823052846
+219,Mahatma Gandhi Road,0.0
+220,Akurli Nagar,0.0
+221,Kasar vadavali,0.0
+222,Vasai West,-25.07264490765545
+223,Mumbai Nashik Expressway,1.0
+224,Katrap,0.0
+225,Mira Road,0.0
+226,Kasheli,1.0
+227,Western Express Highway Kandivali East,0.0
+228,Vasind,0.0
+229,KASHELI,0.0
+230,Thakurli,1.0
+231,Shakti Nagar,0.0
+232,Bhayandar East,0.8585348069931885
+233,Dahisar East,-0.44350296082854546
+234,ulhasnagar 4,0.0
+235,Sector-26 Taloja,0.0
+236,Koproli,0.7003263937079244
+237,Mumbai Central,-4.706249464637451
+238,Greater Khanda,0.0
+239,link road borivali west,0.0
+240,Manpada,0.0
+241,Sector 2 Ulwe,0.0
+242,Govind nagar,0.0
+243,Krishanlal Marwah Marg,0.0
+244,Sector-9 Ulwe,0.0
+245,Vikhroli,0.0
+246,Kalamboli,-9.000525365857543
+247,Lokhandwala,0.0
+248,Patel Nagar,0.0
+249,Yari Road,0.0
+250,Thakur complex,0.0
+251,Khar West,-5.196965920717731
+252,Sector 11 Kharghar,0.0
+253,Ghansoli,0.9449261684206792
+254,Sector8 Sanpada,1.0
+255,Jeejamata Nagar,0.0
+256,Pandurangwadi,0.0
+257,Shreyas Colony,0.0
+258,Kannamwar Nagar II,0.0
+259,gokuldham,0.0
+260,Bangur Nagar,0.0
+261,Shivaji Colony,0.0
+262,Jawahar Nagar,0.0
+263,Vedant Complex,1.0
+264,Titwala,0.7660320713545866
+265,Manvel pada Road,1.0
+266,Govandi,0.0
+267,Shilphata Road Thane,1.0
+268,Vasant Vihar,1.0
+269,Thakur Village,1.0
+270,Samata nagar,0.0
+271,Wadi Bandar,0.0
+272,Kapurbawadi,0.0
+273,Thane Belapur Road Kalwa,0.0
+274,Suburbs Mumbai,0.0
+275,Ramdev Park,0.0
+276,Sector-35 Kamothe,0.0
+277,Sector 58A Seawoods Navi Mumbai,1.0
+278,Diva,0.0
+279,Borivali,0.0
+280,Gundavali Gaothan,0.0
+281,Kondivita Road,0.0
+282,Koldongri,0.0
+283,Saki Naka,0.0
+284,Bhayandar West,1.0
+285,Versova,1.0
+286,Hanuman Nagar,0.0
+287,worli sea face ,0.0
+288,Sea Face,0.0
+289,Shiv Sagar Estate,0.0
+290,Grant Road West,1.0
+291,Sriprastha,0.0
+292,Off Nepean Sea Road,1.0
+293,Morya Nagar,0.0
+294,Upper Worli,0.0
+295,worli sea Fase,0.0
+296,Powai,-0.9189412988680998
+297,Agripada,1.0
+298,Sion,0.0
+299,Girgaon,0.0
+300,IT Colony,1.0
+301,Bhayandarpada,1.0
+302,Sector-24 Kamothe,1.0
+303,Phase 2,1.0
+304,Sector 6,0.0
+305,Malad,0.0
+306,Haji Ali,1.0
+307,Majiwada thane,0.9706687336664269
+308,Yogi Hills,0.0
+309,Sector 19 Nerul,1.0
+310,Owale,-3.949922822706209
+311,MG Road,1.0
+312,roadpali navimumbai,0.0
+313,Taloja Bypass Nitalas Link Road,0.0
+314,Rasayani,0.0
+315,Sector 10 Kamothe,0.0
+316,kavesar,1.0
+317,Kopara,0.0
+318,royal palms goregaon east,1.0
+319,Dadar West,0.0
+320,vrindavan society,0.0
+321,CBD Belapur East,1.0
+322,Parel Village,0.0
+323,Karave Nagar,1.0
+324,Sector 19A Nerul,0.0
+325,Antop Hill,-0.5636751196067902
+326,Suman Nagar,1.0
+327,Bhakti Park,0.0
+328,Hanuman Chowk,0.0
+329,Willingdon,0.0
+330,VishnuNagar,0.0
+331,Vichumbe,0.0
+332,Vashi,0.9763676185134182
+333,Poonam Sagar Complex,0.0
+334,Santacruz East,-8.802411640140821
+335,Mulund East,-10.41802908670954
+336,Sector-8 Sanpada,1.0
+337,Sector-9 Ghansoli,0.0
+338,Balkum,1.0
+339,Hiranandani Estates,-1.4834168732250284
+340,Vartak Nagar,-1.031836580043041
+341,Charkop,0.0
+342,dhanukarwadi,0.0
+343,Vazira,0.0
+344,Four Bunglows,1.0
+345,Palava,1.0
+346,Oshiwara Police Station Road,0.0
+347,Seven Bunglow,0.0
+348,Poddar Road,1.0
+349,Gulmohar Road,0.0
+350,Vile Parle E,0.0
+351,Pokhran Road No 2,0.0
+352,Sainath Nagar,0.9842071002469295
+353,Kapur Bawdi,-2.3611827325257626
+354,Manpada near Tiku ji ni wadi,0.0
+355,Kolshet Industrial Area,0.0
+356,Sector16 Ulwe,0.0
+357,Anand Nagar Thane West,0.0
+358,Charkop Sector 8,0.0
+359,Vile Parle,0.0
+360,Marine Lines,0.0
+361,Bandra Kurla Complex,0.0
+362,sec 50 new,1.0
+363,Vakola Pipeline Road,0.0
+364,Neral,-1385.208807612476
+365,Shil Phata,-11.247583147812628
+366,Ville Parle East,0.32304256234336015
+367,matunga east,1.0
+368,Dharavi,0.0
+369,vile parle west,0.0
+370,Anjurdive,1.0
+371,Uran,1.0
+372,Boisar,-2.3884179260839087
+373,Kanjurmarg East,0.0
+374,Kurla West,-29.50918209246772
+375,Sewri,1.0
+376,Matunga,0.2992181470121873
+377,Goregaon (East),0.0
+378,Malabar Hill,0.0
+379,Ambivali,0.0
+380,Nalasopara East,0.7749378349204861
+381,Vijay Nagar,0.0
+382,Chedda Nagar,0.0
+383,Kurla East,0.0
+384,Kharodi,0.0
+385,Ville Parle West,0.0
+386,Vikhroli West,0.0
+387,Wadala East,1.0
+388,Palidevad,0.0
+389,Vikroli East,0.0
+390,Mahim,0.0
+391,Khalapur,0.0
+392,Karjat,-1.4502573039791327
+393,Vitthalwadi,0.0
+394,Bhoiwada Kalyan,0.0
+395,Beturkar Pada,0.0
+396,Ambivli,1.0
+397,Nilje Gaon,1.0
+398,Khopoli,1.0
+399,Taloje,0.0
+400,Gulal Wadi,0.0
+401,Tilak Nagar Mumbai,0.0
+402,Chandivali,0.0
+403,Nere,1.0
+404,Kewale,-149.85290864485424
+405,Sector 9 Airoli,1.0
+406,Diva Gaon,1.0
+407,Sen Nagar,0.0
+408,Adaigaon,0.0
+409,Syndicate,1.0
+410,Gandhar Nagar,0.0
+411,Byculla,0.0
+412,Padle Gaon,1.0
